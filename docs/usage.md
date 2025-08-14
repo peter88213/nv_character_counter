@@ -2,18 +2,13 @@
 
 --- 
 
-A [novelibre](https://github.com/peter88213/novelibre/) plugin. 
+A [novelibre](https://github.com/peter88213/novelibre/) plugin that replaces the built-in word counter by a character counter. 
 
 ---
 
 # Installation
 
 If [novelibre](https://github.com/peter88213/novelibre/) is installed, the setup script *setup.pyw* installs the *nv_character_counter* plugin in the *novelibre* plugin directory.
-
-
----
-
-# Operation
 
 ---
 

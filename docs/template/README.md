@@ -4,8 +4,6 @@ The [novelibre](https://github.com/peter88213/novelibre/) Python program helps a
 
 *nv_character_counter* is a plugin that repaces novelibre's built-in word counter with a character counter. 
 
-![Screenshot](docs/Screenshots/screen01.png)
-
 ## Requirements
 
 - [novelibre](https://github.com/peter88213/novelibre/) version 5.30+
