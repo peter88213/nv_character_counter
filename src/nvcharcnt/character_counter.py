@@ -1,7 +1,7 @@
 """Provide an alternative strategy class for counting words.
 
 Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/novelibre
+For further information see https://github.com/peter88213/nv_character_counter
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import re
