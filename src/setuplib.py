@@ -1,9 +1,9 @@
-"""nv_plugin installer library module. 
+"""nv_character_counter installer library module. 
 
 Version @release
 
 Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/nv_plugin
+For further information see https://github.com/peter88213/nv_character_counter
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 from shutil import copytree
@@ -23,7 +23,7 @@ except ModuleNotFoundError:
     )
     sys.exit(1)
 
-PLUGIN = 'nv_plugin.py'
+PLUGIN = 'nv_character_counter.py'
 VERSION = ' @release'
 
 root = Tk()
