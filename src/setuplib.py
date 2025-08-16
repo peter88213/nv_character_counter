@@ -14,7 +14,7 @@ import sys
 import zipfile
 
 PLUGIN = 'nv_character_counter.py'
-VERSION = ' @release'
+VERSION = '@release'
 
 pyz = os.path.dirname(__file__)
 
