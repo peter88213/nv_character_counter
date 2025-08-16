@@ -1,3 +1,8 @@
+[![Download the latest release](docs/img/download-button.png)](https://github.com/peter88213/nv_character_counter/raw/main/dist/nv_character_counter_v0.99.0.pyz)
+[![Changelog](docs/img/changelog-button.png)](docs/changelog.md)
+[![News/Feedback](docs/img/news-button.png)](https://github.com/peter88213/novelibre/discussions)
+
+
 # nv_character_counter
 
 The [novelibre](https://github.com/peter88213/novelibre/) Python program helps authors organize novels.  
@@ -40,10 +45,6 @@ The package is also available in zip format: [nv_character_counter_v0.99.0.zip](
 ---
 
 [Changelog](docs/changelog.md)
-
-## Usage
-
-See the [online manual](docs/usage.md)
 
 ---
 
